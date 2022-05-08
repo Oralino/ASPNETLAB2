@@ -1,137 +1,137 @@
 [
 	{
-	PRO: "BlackWidow",
-	GRA: "Razer",
-	COS: "129.99",
-	MSRP: "129.99",
-	HAND: "10",
-	BACK: "10",
-	DSC: "Blue Switch RGB Keyboard"
+		"PRO": "BlackWidow",
+		"GRA": "Razer",
+		"COS": "129.99",
+		"MSRP": "129.99",
+		"HAND": "10",
+		"BACK": "10",
+		"DSC": "Blue Switch RGB Keyboard"
 	},
 	{
-	PRO: "Viper",
-	GRA: "Razer",
-	COS: "120.99",
-	MSRP: "120.99",
-	HAND: "14",
-	BACK: "13",
-	DSC: "Wireless Mouse"
+		"PRO": "Viper",
+		"GRA": "Razer",
+		"COS": "120.99",
+		"MSRP": "120.99",
+		"HAND": "14",
+		"BACK": "13",
+		"DSC": "Wireless Mouse"
 	},
 	{
-	PRO: "Kraken",
-	GRA: "Razer",
-	COS: "123.99",
-	MSRP: "123.99",
-	HAND: "12",
-	BACK: "1",
-	DSC: "Gaming Headset"
+		"PRO": "Kraken",
+		"GRA": "Razer",
+		"COS": "123.99",
+		"MSRP": "123.99",
+		"HAND": "12",
+		"BACK": "1",
+		"DSC": "Gaming Headset"
 	},
 	{
-	PRO: "Goliath",
-	GRA: "Razer",
-	COS: "123.99",
-	MSRP: "123.99",
-	HAND: "15",
-	BACK: "99",
-	DSC: "Mouse Pas"
+		"PRO": "Goliath",
+		"GRA": "Razer",
+		"COS": "123.99",
+		"MSRP": "123.99",
+		"HAND": "15",
+		"BACK": "99",
+		"DSC": "Mouse Pas"
 	},
 	{
-	PRO: "Blade",
-	GRA: "Razer",
-	COS: "1290.99",
-	MSRP: "1290.99",
-	HAND: "100",
-	BACK: "10",
-	DSC: "Gaming Laptop"
+		"PRO": "Blade",
+		"GRA": "Razer",
+		"COS": "1290.99",
+		"MSRP": "1290.99",
+		"HAND": "100",
+		"BACK": "10",
+		"DSC": "Gaming Laptop"
 	},
 	{
-	PRO: "RTX 3050",
-	GRA: "Nvidia",
-	COS: "229.99",
-	MSRP: "229.99",
-	HAND: "10",
-	BACK: "130",
-	DSC: "GPU"
+		"PRO": "RTX 3050",
+		"GRA": "Nvidia",
+		"COS": "229.99",
+		"MSRP": "229.99",
+		"HAND": "10",
+		"BACK": "130",
+		"DSC": "GPU"
 	},
 	{
-	PRO: "RTX 3060",
-	GRA: "Nvidia",
-	COS: "329.99",
-	MSRP: "329.99",
-	HAND: "12",
-	BACK: "10",
-	DSC: "GPU"
+		"PRO": "RTX 3060",
+		"GRA": "Nvidia",
+		"COS": "329.99",
+		"MSRP": "329.99",
+		"HAND": "12",
+		"BACK": "10",
+		"DSC": "GPU"
 	},
 	{
-	PRO: "RTX 3070",
-	GRA: "Nvidia",
-	COS: "329.99",
-	MSRP: "329.99",
-	HAND: "12",
-	BACK: "15",
-	DSC: "GPU"
+		"PRO": "RTX 3070",
+		"GRA": "Nvidia",
+		"COS": "329.99",
+		"MSRP": "329.99",
+		"HAND": "12",
+		"BACK": "15",
+		"DSC": "GPU"
 	},
 	{
-	PRO: "RTX 3080",
-	GRA: "Nvidia",
-	COS: "629.99",
-	MSRP: "629.99",
-	HAND: "9",
-	BACK: "12",
-	DSC: "GPU"
+		"PRO": "RTX 3080",
+		"GRA": "Nvidia",
+		"COS": "629.99",
+		"MSRP": "629.99",
+		"HAND": "9",
+		"BACK": "12",
+		"DSC": "GPU"
 	},
 	{
-	PRO: "RTX 3090",
-	GRA: "Nvidia",
-	COS: "1229.99",
-	MSRP: "1229.99",
-	HAND: "18",
-	BACK: "19",
-	DSC: "GPU"
+		"PRO": "RTX 3090",
+		"GRA": "Nvidia",
+		"COS": "1229.99",
+		"MSRP": "1229.99",
+		"HAND": "18",
+		"BACK": "19",
+		"DSC": "GPU"
 	},
 	{
-	PRO: "i3-12100",
-	GRA: "Intel",
-	COS: "179.99",
-	MSRP: "179.99",
-	HAND: "18",
-	BACK: "19",
-	DSC: "CPU"
+		"PRO": "i3-12100",
+		"GRA": "Intel",
+		"COS": "179.99",
+		"MSRP": "179.99",
+		"HAND": "18",
+		"BACK": "19",
+		"DSC": "CPU"
 	},
 	{
-	PRO: "i5-10400",
-	GRA: "Intel",
-	COS: "199.99",
-	MSRP: "199.99",
-	HAND: "1",
-	BACK: "9",
-	DSC: "CPU"
+		"PRO": "i5-10400",
+		"GRA": "Intel",
+		"COS": "199.99",
+		"MSRP": "199.99",
+		"HAND": "1",
+		"BACK": "9",
+		"DSC": "CPU"
 	},
 	{
-	PRO: "i5-10600k",
-	GRA: "Intel",
-	COS: "379.99",
-	MSRP: "379.99",
-	HAND: "8",
-	BACK: "9",
-	DSC: "CPU"
+		"PRO": "i5-10600k",
+		"GRA": "Intel",
+		"COS": "379.99",
+		"MSRP": "379.99",
+		"HAND": "8",
+		"BACK": "9",
+		"DSC": "CPU"
 	},
 	{
-	PRO: "i7-10700k",
-	GRA: "Intel",
-	COS: "479.99",
-	MSRP: "479.99",
-	HAND: "9",
-	BACK: "9",
-	DSC: "CPU"
+		"PRO": "i7-10700k",
+		"GRA": "Intel",
+		"COS": "479.99",
+		"MSRP": "479.99",
+		"HAND": "9",
+		"BACK": "9",
+		"DSC": "CPU"
 	},
 	{
-	PRO: "i9-12900",
-	GRA: "Intel",
-	COS: "679.99",
-	MSRP: "679.99",
-	HAND: "1",
-	BACK: "2",
-	DSC: "CPU"
+		"PRO": "i9-12900",
+		"GRA": "Intel",
+		"COS": "679.99",
+		"MSRP": "679.99",
+		"HAND": "1",
+		"BACK": "2",
+		"DSC": "CPU"
 	}
 ]
