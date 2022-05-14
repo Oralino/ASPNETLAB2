@@ -2,6 +2,7 @@
 	{
 		"PRO": "BlackWidow",
 		"GRA": "Razer",
+		"GRANAME" :  "BlackWidowRazer",
 		"COS": "129.99",
 		"MSRP": "129.99",
 		"HAND": "10",
@@ -11,6 +12,7 @@
 	{
 		"PRO": "Viper",
 		"GRA": "Razer",
+		"GRANAME" :  "ViperRazer",
 		"COS": "120.99",
 		"MSRP": "120.99",
 		"HAND": "14",
@@ -20,6 +22,7 @@
 	{
 		"PRO": "Kraken",
 		"GRA": "Razer",
+		"GRANAME": "KrakenRazer",
 		"COS": "123.99",
 		"MSRP": "123.99",
 		"HAND": "12",
@@ -29,6 +32,7 @@
 	{
 		"PRO": "Goliath",
 		"GRA": "Razer",
+		"GRANAME": "GoliathRazer",
 		"COS": "123.99",
 		"MSRP": "123.99",
 		"HAND": "15",
@@ -38,6 +42,7 @@
 	{
 		"PRO": "Blade",
 		"GRA": "Razer",
+		"GRANAME": "BladeRazer",
 		"COS": "1290.99",
 		"MSRP": "1290.99",
 		"HAND": "100",
@@ -47,6 +52,7 @@
 	{
 		"PRO": "RTX 3050",
 		"GRA": "Nvidia",
+		"GRANAME": "NV3050",
 		"COS": "229.99",
 		"MSRP": "229.99",
 		"HAND": "10",
@@ -56,6 +62,7 @@
 	{
 		"PRO": "RTX 3060",
 		"GRA": "Nvidia",
+		"GRANAME": "NV3060",
 		"COS": "329.99",
 		"MSRP": "329.99",
 		"HAND": "12",
@@ -65,6 +72,7 @@
 	{
 		"PRO": "RTX 3070",
 		"GRA": "Nvidia",
+		"GRANAME": "NV3070",
 		"COS": "329.99",
 		"MSRP": "329.99",
 		"HAND": "12",
@@ -74,6 +82,7 @@
 	{
 		"PRO": "RTX 3080",
 		"GRA": "Nvidia",
+		"GRANAME": "NV3080",
 		"COS": "629.99",
 		"MSRP": "629.99",
 		"HAND": "9",
@@ -83,6 +92,7 @@
 	{
 		"PRO": "RTX 3090",
 		"GRA": "Nvidia",
+		"GRANAME": "NV3090",
 		"COS": "1229.99",
 		"MSRP": "1229.99",
 		"HAND": "18",
@@ -92,6 +102,7 @@
 	{
 		"PRO": "i3-12100",
 		"GRA": "Intel",
+		"GRANAME": "IN12100",
 		"COS": "179.99",
 		"MSRP": "179.99",
 		"HAND": "18",
@@ -101,6 +112,7 @@
 	{
 		"PRO": "i5-10400",
 		"GRA": "Intel",
+		"GRANAME": "IN10400",
 		"COS": "199.99",
 		"MSRP": "199.99",
 		"HAND": "1",
@@ -110,6 +122,7 @@
 	{
 		"PRO": "i5-10600k",
 		"GRA": "Intel",
+		"GRANAME": "IN10600k",
 		"COS": "379.99",
 		"MSRP": "379.99",
 		"HAND": "8",
@@ -119,6 +132,7 @@
 	{
 		"PRO": "i7-10700k",
 		"GRA": "Intel",
+		"GRANAME": "IN10700k",
 		"COS": "479.99",
 		"MSRP": "479.99",
 		"HAND": "9",
@@ -128,6 +142,7 @@
 	{
 		"PRO": "i9-12900",
 		"GRA": "Intel",
+		"GRANAME": "IN12900",
 		"COS": "679.99",
 		"MSRP": "679.99",
 		"HAND": "1",
